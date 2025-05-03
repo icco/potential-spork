@@ -17,3 +17,5 @@ A norns script for controlling Just Friends as an envelope generator thing.
 - [just-play](https://github.com/midouest/just-play/)
 - [Just Type](https://github.com/whimsicalraps/Just-Friends/blob/main/Just-Type.md#crow-reference)
 - [just friends lines thread](https://llllllll.co/t/mannequins-just-friends/3142)
+- [monome norns crow docs](https://monome.org/docs/crow/norns/)
+- [monome norns scripting docs](https://monome.org/docs/norns/reference/)
